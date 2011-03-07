@@ -1,0 +1,8 @@
+XCode 3.2.5
+iOS SDK 4.2
+
+This project shows how to autoresize the height of a UITableViewCell given a resize of its UILabel. The positioning of other elements within the UIView are also adjusted downward accordingly.
+
+
+Rodney Degracia
+

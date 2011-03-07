@@ -1,0 +1,20 @@
+#
+# .gitignore file
+#
+# Ignore any build files and older project files
+build/*
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+# Don't ignore the pbxproj within the xcodeproj folder
+!*.xcodeproj/project.pbxproj
+
+# Ignore .svn information
+.svn
+
+# Ignore OSX-specific files
+.DS_Store
+profile

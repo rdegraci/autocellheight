@@ -1,0 +1,8 @@
+#
+#
+# .gitattributes file
+#
+# Effectively treat the pbxproj as binary
+#
+*.pbxproj -crlf -diff -merge
+
